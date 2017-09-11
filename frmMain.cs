@@ -44,7 +44,7 @@ namespace MorningAlert
                 if (nodes.Count > 0)
                 {
                     XmlNode elem = (XmlNode)nodes.Item(0);
-                    string[] ndxs = elem.InnerText.Split(new char[] { ',' });
+                    string[] ndxs = elem.InnerText.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
                     foreach (string ndx in ndxs)
                     {
                         dayAlert.SetItemChecked(Convert.ToInt32(ndx), true);
@@ -206,7 +206,7 @@ namespace MorningAlert
             }
             else
             {
-                lst.Add(e.Index.ToString());
+                lst.Remove(e.Index.ToString());
             }
             elem.InnerText = string.Join(",", lst.ToArray());
             if (nodes.Count == 0)
