@@ -1,0 +1,8 @@
+E:\Projects\c#.net.app.projects\OtherApps\MorningAlert\bin\Debug\MorningAlert.exe.config
+E:\Projects\c#.net.app.projects\OtherApps\MorningAlert\obj\Debug\MorningAlert.Properties.Resources.resources
+E:\Projects\c#.net.app.projects\OtherApps\MorningAlert\obj\Debug\MorningAlert.csproj.GenerateResource.Cache
+E:\Projects\c#.net.app.projects\OtherApps\MorningAlert\bin\Debug\MorningAlert.exe
+E:\Projects\c#.net.app.projects\OtherApps\MorningAlert\bin\Debug\MorningAlert.pdb
+E:\Projects\c#.net.app.projects\OtherApps\MorningAlert\obj\Debug\MorningAlert.exe
+E:\Projects\c#.net.app.projects\OtherApps\MorningAlert\obj\Debug\MorningAlert.pdb
+E:\Projects\c#.net.app.projects\OtherApps\MorningAlert\obj\Debug\MorningAlert.frmMain.resources
